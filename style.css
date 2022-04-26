@@ -101,6 +101,17 @@ body {
   margin: 0 0 32px;
 }
 
+.leftside {
+  text-align: left;
+}
+
+
+.skills {
+  margin: 5px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
 .skills-list {
   margin: 0;
   padding: 0;
